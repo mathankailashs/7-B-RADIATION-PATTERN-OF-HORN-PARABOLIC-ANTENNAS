@@ -1,6 +1,10 @@
 # 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
 
+## Name: Mathan Kailash S 
+## Reg No: 212223060156
+
 **Aim:**
+
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
 
 **THEORY:**
@@ -58,31 +62,54 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
 
+KEY FORMULA:
+
+Far-field distance: R = (2 × D²) / λ₀
+
+* Gain (for identical antennas):
+* Pr = (Pt × λ₀² × G²) / (4 × π × S)²
+* G = (4 × π × S / λ₀) × √(Pr / Pt)
+* G(dB) = 10 × log₁₀(G)
+
+3 dB Beamwidth:
+HPBW = Angle between points at -3 dB from main lobe peak
+
 **TABULATION:** 
 
 **HORN ANTENNA** 
 
-Beam voltage	:
+![WhatsApp Image 2025-11-15 at 09 49 50_ec117f98](https://github.com/user-attachments/assets/6f609fc0-1b56-465d-8949-a1a6d19bbdab)
 
-Beam current	 :
 
-**PARABOLICANTENNA**
+**PARABOLIC ANTENNA**
 
-Beam voltage	:
+![WhatsApp Image 2025-11-15 at 09 50 09_9b1d34d1](https://github.com/user-attachments/assets/ddd4b724-343e-4399-87ab-2b00fecad9bd)
 
-Beam current	 :
 
-Repeller voltage :
+## OBSERVATION TABLE
+### Radiation Pattern of Horn Antenna
 
-	V1 : 
+![WhatsApp Image 2025-11-15 at 09 50 26_988a70fa](https://github.com/user-attachments/assets/bf96dcaf-f4d3-407f-98e8-f648e5255e14)
 
-**RESULT:**
+→ 3 dB Beamwidth ≈ 32 degree
+
+### Radiation Pattern of Parabolic Antenna
+
+![WhatsApp Image 2025-11-15 at 09 50 42_703a3629](https://github.com/user-attachments/assets/c95696a1-d385-4da1-a94c-90b50363f570)
+
+→ 3 dB Beamwidth ≈ 12 degree
+
+## RESULT:
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
+Beamwidth of horn antenna : 32 degree
 
-Beamwidth of parabolic antenna:		
+Beamwidth of parabolic antenna: 12 degree
+
+Gain (dB) of horn antenna : 15
+
+Gain (dB) of parabolic antenna: 22
 
 
 
